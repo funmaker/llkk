@@ -1,0 +1,16 @@
+{
+  "name": "llkk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "discordBot.js",
+  "type": "module",
+  "scripts": {
+
+  },
+  "author": "Fun Maker <funmaker95@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "discord-webhook-node": "^1.1.8"
+  }
+}
