@@ -3,7 +3,7 @@ Simple Markov-chain based text generator/discord bot.
 
 ## Usage
 
-Extract comments from [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) csv format:
+Extract messages from [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) csv format:
 
 ```sh
     $ ./parsecsv.js <logs.csv >text.txt
