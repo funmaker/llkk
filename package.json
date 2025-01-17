@@ -5,7 +5,7 @@
   "main": "discordBot.js",
   "type": "module",
   "scripts": {
-
+    "start": "node discordBot.js"
   },
   "author": "Fun Maker <funmaker95@gmail.com>",
   "license": "MIT",
